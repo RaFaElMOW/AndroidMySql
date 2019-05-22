@@ -1,0 +1,3 @@
+-- Colocar o driver do mysql junto com os arquivos java
+-- Clicar nele com o botão direito e escolher "Add as Library"
+-- Adicionar a permissão de Internet no Manifest
